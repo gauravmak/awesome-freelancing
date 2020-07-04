@@ -8,12 +8,11 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Please submit awesome stuff only. This list is curation of the best, not everything.
+- Comment on why the thing you are adding is awesome.
+- Add resource in proper format and in the respective list only.
 
 Thank you for your suggestions!
-
 
 ## Updating your PR
 
