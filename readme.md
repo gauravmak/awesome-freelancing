@@ -5,34 +5,36 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Blogs](#blogs)
+- [Communities](#blogs)
+- [Platforms](#platforms)
+- [Tools](#tools)
 
 
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Blogs
+- [Double Your Freelancing](https://doubleyourfreelancing.com/) - Practical advice to grow your business.
 
 
-## Another Section
+## Communities
+- [Freelance Subreddit](https://www.reddit.com/r/freelance/) - Interesting articles and links for freelancers.
 
-### Subsection
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Platforms
+- [Dribble](https://dribbble.com/) - To find design inspiration and your next designer.
+- [Toptal](https://www.toptal.com/) - Limited to top 3% of the freelance talent.
+- [Upwork](https://www.upwork.com/) - The biggest freelancing platform with gigs for diverse industries.
+
+
+## Tools
+- [Canva](https://www.canva.com/) - Quick design tool for non-designers.
+- [Calendly](https://calendly.com/) - Scheduling meetings made easy.
+- [Grammarly](https://www.grammarly.com/) - Free and efficient tool to correct your grammar and spellings.
+- [Skype](https://www.skype.com/) - Easy communication with the team and clients.
+- [Slack](https://slack.com/) - Easy communication with the team and community.
+- [Toggl](https://toggl.com/) - Time Tracking and reporting for free.
+- [Trello](https://trello.com/) - Kanban style project management for free.
 
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
-
-## License
-
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Gaurav Makhecha has waived all copyright and
-related or neighboring rights to this work.

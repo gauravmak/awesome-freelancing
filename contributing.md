@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - Please submit awesome stuff only. This list is curation of the best, not everything.
 - Comment on why the thing you are adding is awesome.
 - Add resource in proper format and in the respective list only.
+- The list items are sorted alphabetically.
 
 Thank you for your suggestions!
 
