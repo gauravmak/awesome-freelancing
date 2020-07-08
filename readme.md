@@ -13,6 +13,7 @@
 
 ## Blogs
 - [Double Your Freelancing](https://doubleyourfreelancing.com/) - Practical advice to grow your business.
+- [Austin L. Church](https://austinlchurch.com/) - Useful tips and advice on Freelancing.
 
 
 ## Communities
