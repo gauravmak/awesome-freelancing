@@ -9,6 +9,7 @@
 - [Books](#books)
 - [Communities](#blogs)
 - [Platforms](#platforms)
+- [Podcasts](#podcasts)
 - [Tools](#tools)
 
 
@@ -30,6 +31,11 @@
 - [Dribble](https://dribbble.com/) - To find design inspiration and your next designer.
 - [Toptal](https://www.toptal.com/) - Limited to top 3% of the freelance talent.
 - [Upwork](https://www.upwork.com/) - The biggest freelancing platform with gigs for diverse industries.
+
+
+## Podcasts
+- [The Indie Hackers Podcast](https://www.indiehackers.com/podcast/) - Interviews with successful indie hackers.
+- [The Tim Ferriss Show](https://tim.blog/podcast/) - Tips on managing and growing startups and businesses.
 
 
 ## Tools
