@@ -6,6 +6,7 @@
 ## Contents
 
 - [Blogs](#blogs)
+- [Books](#books)
 - [Communities](#blogs)
 - [Platforms](#platforms)
 - [Tools](#tools)
@@ -14,6 +15,11 @@
 ## Blogs
 - [Double Your Freelancing](https://doubleyourfreelancing.com/) - Practical advice to grow your business.
 - [Austin L. Church](https://austinlchurch.com/) - Useful tips and advice on Freelancing.
+
+
+## Books
+- [Rework](https://www.amazon.com/gp/product/0307463745/) -  better, faster, easier way to succeed in business.
+- [The 4-Hour Work Week](https://fourhourworkweek.com/) - You don't have to do everything yourself to grow.
 
 
 ## Communities
