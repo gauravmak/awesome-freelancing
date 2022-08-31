@@ -31,6 +31,8 @@
 - [Dribble](https://dribbble.com/) - To find design inspiration and your next designer.
 - [Toptal](https://www.toptal.com/) - Limited to top 3% of the freelance talent.
 - [Upwork](https://www.upwork.com/) - The biggest freelancing platform with gigs for diverse industries.
+- [4dayweek](https://4dayweek.io/) -  For 4 day week and part time jobs.
+- [BlockchainDevs](https://www.BlockchainDevs.net/) - For freelance jobs in Web3
 
 
 ## Podcasts
